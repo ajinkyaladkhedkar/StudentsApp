@@ -1,2 +1,2 @@
 # StudentsApp
-Templated for a Spring Bean Project
+Template for a Spring Bean Project
